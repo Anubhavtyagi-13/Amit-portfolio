@@ -1,0 +1,33 @@
+.footer {
+  background: #2c3e50;
+  color: white;
+  padding: 2rem 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.heart-icon {
+  color: #e74c3c;
+  animation: heartbeat 1.5s ease-in-out infinite;
+}
+
+@keyframes heartbeat {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.copyright {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+

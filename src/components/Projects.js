@@ -1,7 +1,7 @@
 import React from 'react';
 import './Projects.css';
-import { FaGithub, FaExternalLinkAlt, FaMobileAlt, FaReact } from 'react-icons/fa';
-import { SiFirebase, SiRedux } from 'react-icons/si';
+import { FaGithub, FaExternalLinkAlt, FaMobileAlt } from 'react-icons/fa';
+import { SiRedux } from 'react-icons/si';
 
 const Projects = () => {
   const projects = [

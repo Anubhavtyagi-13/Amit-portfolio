@@ -1,6 +1,6 @@
 import React from 'react';
 import './Achievements.css';
-import { FaAward, FaCertificate } from 'react-icons/fa';
+import { FaCertificate } from 'react-icons/fa';
 
 const Achievements = () => {
   const achievements = [

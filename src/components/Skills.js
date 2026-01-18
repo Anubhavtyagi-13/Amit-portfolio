@@ -12,11 +12,7 @@ import {
 import { 
   SiRedux, 
   SiFirebase, 
-  SiTypescript,
-  SiExpo,
-  SiGraphql,
-  SiDocker,
-  SiJest
+  SiExpo
 } from 'react-icons/si';
 
 const Skills = () => {
